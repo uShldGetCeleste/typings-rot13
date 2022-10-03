@@ -63,6 +63,8 @@ available languages:
 
 - `english`
 - `english1000`
+- `rot13`
+- `rot131000`
 - `italian`
 - `german`
 - `spanish`
